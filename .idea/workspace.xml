@@ -20,12 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <first_editor relative-caret-position="182">
+                <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
               </first_editor>
               <second_editor />
             </state>
@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="x.Loop-Merge-ParentSelectors.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="x.Loop-Merge-ParentSelectors.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Less/x.Loop-Merge-ParentSelectors.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -62,6 +62,15 @@
                 </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -142,11 +151,11 @@
         <option value="$PROJECT_DIR$/Less/1.variable-nested.md" />
         <option value="$PROJECT_DIR$/Less/grammar.md" />
         <option value="$PROJECT_DIR$/Less/2.operation-string.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/Less/_less.md" />
         <option value="$PROJECT_DIR$/Less/special.md" />
         <option value="$PROJECT_DIR$/Less/x.loop.md" />
         <option value="$PROJECT_DIR$/Less/x.Loop-Merge-ParentSelectors.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
       </list>
     </option>
   </component>
@@ -159,11 +168,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="464" />
-    <option name="y" value="214" />
-    <option name="width" value="1871" />
-    <option name="height" value="1036" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="220" />
+    <option name="width" value="903" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -184,11 +193,6 @@
               <item name="StylesBooks" type="462c0819:PsiDirectoryNode" />
               <item name="Less" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="StylesBooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StylesBooks" type="462c0819:PsiDirectoryNode" />
-              <item name="Sass" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -207,8 +211,8 @@
       <recent name="H:\GitHub\StylesBooks\Sass" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\GitHub\StylesBooks\Less" />
       <recent name="H:\GitHub\StylesBooks" />
+      <recent name="H:\GitHub\StylesBooks\Less" />
       <recent name="H:\GitHub\StylesBooks\Sass" />
     </key>
   </component>
@@ -239,7 +243,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20645000" />
+    <option name="totallyTimeSpent" value="21024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -406,16 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Less/1.variable-nested.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -491,6 +485,23 @@
               <element signature="e#934#1156#0" />
               <element signature="e#1203#1313#0" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="182">
+            <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
           </first_editor>
           <second_editor />
         </state>

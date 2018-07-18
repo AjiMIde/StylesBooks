@@ -34,3 +34,4 @@
 # aji
 .idea
 .idea/*.xml
+*.xml
