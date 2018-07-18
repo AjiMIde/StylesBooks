@@ -1,6 +1,6 @@
 #### Loop
 * 循环能够让你用少量的代码完成一些层级的，或是叠加的样式定义
-* 一般结合 mixin 使用 test
+* 一般结合 mixin 使用
 
 ```less
 .loop(@counter) when (@counter > 0) {
@@ -56,6 +56,7 @@ div .flex-5 {
 #### Merge
 * merge 特性使得可以将同一个属性的多个值用逗号 `,` 或空格 `space` 连接起来
 * 这个特性用在 `transform`, `box-shadow` 等非常有用
+
 ```less
 .default-shadow {
   box-shadow+: inset 0 0 1px #555;
@@ -66,7 +67,7 @@ div .flex-5 {
   box-shadow+: 0 0 110px #333;
   transform+_: rotate(15deg);
 }
-==> 
+// ==> 
 .box-shadow {
   box-shadow: inset 0 0 1px #555, 0 0 110px #333;
   transform: scale(2) rotate(15deg);
@@ -89,7 +90,7 @@ div .flex-5 {
     color: #fff
   }
 }
-==> 
+// ==> 
 .foo span, .bar span { // 这证明, & 符号放在哪里都好
   color: #fff
 }
@@ -108,7 +109,7 @@ div .flex-5 {
     color: yellow
   }
 }
-==>
+// ==>
 .button-ok {
   color: green;
 }
@@ -129,7 +130,7 @@ div .flex-5 {
     }
   }
 }
-==>
+// ==>
 .cat .foo .bar {
   color: #fff;
 }
