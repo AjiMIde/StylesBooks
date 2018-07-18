@@ -23,6 +23,7 @@ div {
 ```
 
 * 当然，这个用法一般没什么意义，看看一个稍微有意义的用法
+
 ```less
 .loop(@counter) when (@counter > 0) {
   .loop((@counter - 1));    // next iteration
@@ -54,6 +55,7 @@ div .flex-5 {
 
 
 #### Merge
+
 * merge 特性使得可以将同一个属性的多个值用逗号 `,` 或空格 `space` 连接起来
 * 这个特性用在 `transform`, `box-shadow` 等非常有用
 
@@ -97,6 +99,7 @@ div .flex-5 {
 ```
 
 * 更简便好看的例子，一看就明：
+
 ```less
 .button {
   &-ok {
@@ -122,6 +125,7 @@ div .flex-5 {
 ```
 
 * 要注意执行顺序，以及，`&` 符所代表的是：层级接连的选择器（而非最近的那个选择器）
+
 ```less
 .foo {
   .bar {
@@ -134,5 +138,4 @@ div .flex-5 {
 .cat .foo .bar {
   color: #fff;
 }
-
 ```
