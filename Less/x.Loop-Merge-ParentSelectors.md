@@ -1,7 +1,7 @@
 #### Loop
-
 * 循环能够让你用少量的代码完成一些层级的，或是叠加的样式定义
-* 一般结合 mixin 使用
+* 一般结合 mixin 使用 test
+
 ```less
 .loop(@counter) when (@counter > 0) {
   .loop((@counter - 1));    // next iteration
