@@ -5,6 +5,13 @@
 * Blog
   * [动画与重绘与回流](./Blog/0.Animation-Redraw-Reflow.md)
   
+* Tricks
+  * [0.只显示两行文字...](./Tricks/0.two-row-txt.md)
+  * [1.flex布局与ellipsis不显示省略号问题](./Tricks/1.flex-&-ellipsis.md)
+  
+* Layout布局  
+  * [0.一行双列典型自适合布局](./Layout/0.Two-column-auto-layout.md)
+  * [1.多列 column-count 使用](./Layout/1.Multi-Columns.md)
 
 * [Less](./Less/_less.md)
   * [1. 变量与嵌套](./Less/1.variable-nested.md)
