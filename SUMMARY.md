@@ -8,6 +8,8 @@
 * Tricks
   * [0.只显示两行文字...](./Tricks/0.two-row-txt.md)
   * [1.flex布局与ellipsis不显示省略号问题](./Tricks/1.flex-&-ellipsis.md)
+  * [2.多行文字的收缩与展开设计](./Tricks/2.more-txt-expand-collapse.md)
+  * [3.box-shadow 叠加使用，实现耐看的阴影](./Tricks/3.more-box-shadow.md)
   
 * Layout布局  
   * [0.一行双列典型自适合布局](./Layout/0.Two-column-auto-layout.md)
