@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b35b292c-717c-430a-bab7-23e7ddaf9efd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/API/0.element.style-getComputedStyle().md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case/0.Dot-Pagination-Style.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spec/5.0-Css-Reset-Css-重置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tricks/4.animate-ad-slider.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/2002241505.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/20180801.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/2018080101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/20180802.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/1.webkit-overflow-scrolling-IOS滑动回弹效果.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/0.Animation-Redraw-Reflow.md" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/0.Animation-Redraw-Reflow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,24 +39,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <file leaf-file-name="0.Dot-Pagination-Style.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Case/0.Dot-Pagination-Style.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="186">
-                <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <first_editor relative-caret-position="619">
+                <caret line="26" selection-start-line="26" selection-end-line="26" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0.Animation-Redraw-Reflow.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Blog/0.Animation-Redraw-Reflow.md">
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="274">
-                <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+              <first_editor relative-caret-position="62">
+                <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="403">
+                <caret line="13" selection-start-line="13" selection-end-line="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,8 +125,14 @@
         <option value="$PROJECT_DIR$/Tricks/1.flex-&amp;-ellipsis.md" />
         <option value="$PROJECT_DIR$/Tricks/2.more-txt-expand-collapse.md" />
         <option value="$PROJECT_DIR$/Tricks/3.more-box-shadow.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/Blog/0.Animation-Redraw-Reflow.md" />
+        <option value="$PROJECT_DIR$/Spec/5.0-Css Reset Css重置.md" />
+        <option value="$PROJECT_DIR$/ios/1-webkit-overflow-scrolling-IOS滑动回弹效果.md" />
+        <option value="$PROJECT_DIR$/Tricks/4.animate-ad-slider.md" />
+        <option value="$PROJECT_DIR$/API/0.element.style-getComputedStyle().md" />
+        <option value="$PROJECT_DIR$/Case/0.Dot-Pagination-Style.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -116,10 +146,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="115" />
-    <option name="y" value="403" />
-    <option name="width" value="2037" />
-    <option name="height" value="1100" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -137,11 +167,6 @@
               <item name="styles-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="styles-book" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="styles-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="styles-book" type="462c0819:PsiDirectoryNode" />
-              <item name="Blog" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -157,16 +182,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitHub\styles-book\assets" />
+      <recent name="H:\GitHub\styles-book\Case" />
+      <recent name="H:\GitHub\styles-book\API" />
+      <recent name="H:\GitHub\styles-book\Tricks" />
+      <recent name="H:\GitHub\styles-book\ios" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\GitHub\StylesBooks\assets" />
       <recent name="H:\GitHub\StylesBooks\Sass" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\GitHub\StylesBooks\assets" />
-      <recent name="H:\GitHub\StylesBooks\Tricks" />
-      <recent name="H:\GitHub\StylesBooks\Layout" />
-      <recent name="H:\GitHub\StylesBooks\layout" />
-      <recent name="H:\GitHub\StylesBooks" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,17 +235,25 @@
       <workItem from="1561547623987" duration="242000" />
       <workItem from="1562597290459" duration="697000" />
       <workItem from="1562637052036" duration="46000" />
-      <workItem from="1565078766519" duration="2962000" />
+      <workItem from="1565078766519" duration="2963000" />
+      <workItem from="1565159848111" duration="4571000" />
+      <workItem from="1565247954272" duration="3567000" />
+      <workItem from="1567151346126" duration="1202000" />
+      <workItem from="1567319569902" duration="175000" />
+      <workItem from="1568523195397" duration="6136000" />
+      <workItem from="1572504040300" duration="660000" />
+      <workItem from="1572526764895" duration="656000" />
+      <workItem from="1582509467662" duration="4632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52633000" />
+    <option name="totallyTimeSpent" value="74233000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="115" y="403" width="2037" height="1100" extended-state="0" />
+    <frame x="-7" y="2" width="1932" height="1055" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12042148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15466101" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -246,6 +279,56 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sass/special.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="248">
+            <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="124">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="279">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="186">
+            <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/0.Animation-Redraw-Reflow.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1767">
+            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -530,9 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Layout/2.Waterfall-realize.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -547,11 +627,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/docs/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/docs/CNAME" />
+    <entry file="file://$PROJECT_DIR$/Spec/5.0-Css-Reset-Css-重置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="186">
-            <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <first_editor relative-caret-position="754">
+            <caret line="151" selection-start-line="151" selection-end-line="151" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tricks/4.animate-ad-slider.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="744">
+            <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/1.webkit-overflow-scrolling-IOS滑动回弹效果.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sass/special.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sass/_sass.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="310">
+            <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sass/1.varialbe-nested.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sass/3.mixin-inheritance.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="403">
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -560,8 +701,48 @@
     <entry file="file://$PROJECT_DIR$/Blog/0.Animation-Redraw-Reflow.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="274">
-            <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+          <first_editor relative-caret-position="279">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/0.element.style-getComputedStyle().md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="279">
+            <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case/0.Dot-Pagination-Style.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="619">
+            <caret line="26" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="62">
+            <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="403">
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>

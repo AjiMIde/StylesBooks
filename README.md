@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Css
 
-You can use the [editor on GitHub](https://github.com/AjiMIde/StylesBooks/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+> * Css Cascading Style Sheets 层叠样式表
+> * 通常把 `HTML`认为是骨架，`Css`认为是皮肤
+> * 当然现在这么理解，也是可以的，随着 `css3` 的流行，**皮肤**也开始拥有动作、动态样式，可以想象，QQ秀或是QQ飞车的皮肤
+> * `css`有很多内容需要掌握，包括像样式、选择器、盒模型、定位、`css3`动画（旋转、缩放、3D）等等。
+> * 随着前端项目的组织庞大，诞生了很多`css`预处理语言(less/sass/stylus)，也需要前端人员掌握更多如：模块化、继承、计算等高级用法。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 相关网址:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AjiMIde/StylesBooks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [w3c官方](https://www.w3.org/Style/CSS/translating)
+* [tympanus.net 著名的样式网站](https://tympanus.net/)
+* [standardjs规范](https://standardjs.com/index.html)
