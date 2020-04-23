@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b35b292c-717c-430a-bab7-23e7ddaf9efd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/2020042301.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2020042302.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/0.Bounce.js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/1.Effeckt.css.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/1.Neumorphism-UI.md" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/1.Neumorphism-UI.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/0.Bounce.js.md" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/0.Bounce.js.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,20 +32,20 @@
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="492">
-                <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+              <first_editor relative-caret-position="114">
+                <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0.Bounce.js.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plugins/0.Bounce.js.md">
+      <file leaf-file-name="1.Effeckt.css.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Plugins/1.Effeckt.css.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="81">
-                <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <first_editor relative-caret-position="243">
+                <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,8 +110,9 @@
         <option value="$PROJECT_DIR$/Case/0.Dot-Pagination-Style.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Blog/1.Neumorphism-UI.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/plugins/0.Bounce.js.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/Plugins/1.Effeckt.css.md" />
       </list>
     </option>
   </component>
@@ -126,7 +125,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="264" />
     <option name="y" value="128" />
     <option name="width" value="1932" />
@@ -151,12 +150,7 @@
             <path>
               <item name="styles-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="styles-book" type="462c0819:PsiDirectoryNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="styles-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="styles-book" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugins" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,11 +168,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitHub\styles-book\Plugins" />
       <recent name="H:\GitHub\styles-book\assets" />
       <recent name="H:\GitHub\styles-book\plugins" />
       <recent name="H:\GitHub\styles-book\Blog" />
       <recent name="H:\GitHub\styles-book\Case" />
-      <recent name="H:\GitHub\styles-book\API" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\GitHub\StylesBooks\assets" />
@@ -238,18 +232,18 @@
       <workItem from="1582594988757" duration="8653000" />
       <workItem from="1582679745837" duration="3289000" />
       <workItem from="1582874311801" duration="3417000" />
-      <workItem from="1587622885899" duration="3813000" />
+      <workItem from="1587622885899" duration="5735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93408000" />
+    <option name="totallyTimeSpent" value="95330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15433404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15433404" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -275,16 +269,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="527">
-            <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Layout/2.Waterfall-realize.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -703,21 +687,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/Plugins/0.Bounce.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="492">
-            <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+          <first_editor relative-caret-position="81">
+            <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/0.Bounce.js.md">
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="81">
-            <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <first_editor relative-caret-position="114">
+            <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plugins/1.Effeckt.css.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="243">
+            <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>

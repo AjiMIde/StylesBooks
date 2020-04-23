@@ -30,7 +30,8 @@
   
   
 * Plugins
-  * [0.动画框架Bounce.js](plugins/0.Bounce.js.md) 
+  * [0.动画框架Bounce.js](Plugins/0.Bounce.js.md) 
+  * [1.Effeckt.css](Plugins/1.Effeckt.css.md)
   
 
 * [Less](./Less/_less.md)
