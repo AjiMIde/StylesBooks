@@ -16,6 +16,8 @@
   * [1.flex布局与ellipsis不显示省略号问题](./Tricks/1.flex-&-ellipsis.md)
   * [2.多行文字的收缩与展开设计](./Tricks/2.more-txt-expand-collapse.md)
   * [3.box-shadow 叠加使用，实现耐看的阴影](./Tricks/3.more-box-shadow.md)
+  * [4.轮播广告(或滚动公告)的基础实现](./Tricks/4.animate-ad-slider.md)
+  * [5.flex与width-0的关系与实现](./Tricks/5.flex-width-0的实例作用.md)
   
   
 * Layout布局  
