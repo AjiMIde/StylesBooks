@@ -6,7 +6,9 @@
   * [Ele.style/window.getComputedStyle](./API/0.element.style-getComputedStyle().md)
 
 * Blog
-  * [动画与重绘与回流](./Blog/0.Animation-Redraw-Reflow.md)
+  * [0.动画与重绘与回流](./Blog/0.Animation-Redraw-Reflow.md)
+  * [1.Neumorphism-UI设计风格](./Blog/1.Neumorphism-UI.md)
+  * [2.css Normalize与Reset](./Blog/2.css-normalize-reset.md)
 
 * Case  
   * [分页器常用“点”样式](./Case/0.Dot-Pagination-Style.md)  
@@ -35,6 +37,7 @@
 * Plugins
   * [0.动画框架Bounce.js](Plugins/0.Bounce.js.md) 
   * [1.Effeckt.css](Plugins/1.Effeckt.css.md)
+  * [2.NProgress.js顶部进度条](Plugins/2.NProgress.js.md)
   
 
 * [Less](./Less/_less.md)

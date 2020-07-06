@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b35b292c-717c-430a-bab7-23e7ddaf9efd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tricks/5.flex-width-0的实例作用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blog/2.css-normalize-reset.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/2.NProgress.js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/2020063001.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
     </list>
@@ -31,32 +33,20 @@
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+              <first_editor relative-caret-position="621">
+                <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.animate-ad-slider.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tricks/4.animate-ad-slider.md">
+      <file leaf-file-name="2.css-normalize-reset.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blog/2.css-normalize-reset.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="744">
-                <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.flex-width-0的实例作用.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tricks/5.flex-width-0的实例作用.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="492">
-                <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <first_editor relative-caret-position="3186">
+                <caret line="118" selection-start-line="118" selection-end-line="118" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,6 +66,7 @@
     <findStrings>
       <find>font</find>
       <find>scr</find>
+      <find>nor</find>
     </findStrings>
     <dirStrings>
       <dir>H:\GitHub\StylesBooks</dir>
@@ -124,6 +115,8 @@
         <option value="$PROJECT_DIR$/plugins/0.Bounce.js.md" />
         <option value="$PROJECT_DIR$/Plugins/1.Effeckt.css.md" />
         <option value="$PROJECT_DIR$/Tricks/5.flex-0-auto-width-0的实例作用.md" />
+        <option value="$PROJECT_DIR$/Plugins/2.NProgress.js.md" />
+        <option value="$PROJECT_DIR$/Blog/2.css-normalize-reset.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
       </list>
     </option>
@@ -137,11 +130,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="717" />
-    <option name="y" value="295" />
-    <option name="width" value="1085" />
-    <option name="height" value="967" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-786" />
+    <option name="y" value="524" />
+    <option name="width" value="2251" />
+    <option name="height" value="934" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -151,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,13 +155,27 @@
             <path>
               <item name="styles-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="styles-book" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styles-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styles-book" type="462c0819:PsiDirectoryNode" />
+              <item name="Case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styles-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styles-book" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styles-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styles-book" type="462c0819:PsiDirectoryNode" />
               <item name="Tricks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,16 +187,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitHub\styles-book\Blog" />
+      <recent name="H:\GitHub\styles-book\assets" />
+      <recent name="H:\GitHub\styles-book\Plugins" />
+      <recent name="H:\GitHub\styles-book\Tricks" />
+      <recent name="H:\GitHub\styles-book\plugins" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\GitHub\StylesBooks\assets" />
       <recent name="H:\GitHub\StylesBooks\Sass" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\GitHub\styles-book\Tricks" />
-      <recent name="H:\GitHub\styles-book\assets" />
-      <recent name="H:\GitHub\styles-book\Plugins" />
-      <recent name="H:\GitHub\styles-book\plugins" />
-      <recent name="H:\GitHub\styles-book\Blog" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,17 +254,21 @@
       <workItem from="1582874311801" duration="3417000" />
       <workItem from="1587622885899" duration="6519000" />
       <workItem from="1590656914768" duration="3373000" />
+      <workItem from="1593335523129" duration="2375000" />
+      <workItem from="1593394404715" duration="608000" />
+      <workItem from="1593487353656" duration="2968000" />
+      <workItem from="1594023708327" duration="2015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99487000" />
+    <option name="totallyTimeSpent" value="107453000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-786" y="524" width="2251" height="934" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15433404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1323063" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -282,30 +294,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="527">
-            <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/2.Waterfall-realize.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="713">
-            <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-            <folding>
-              <element signature="e#349#598#0" />
-              <element signature="e#844#1045#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -627,16 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/0.Animation-Redraw-Reflow.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="279">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/2002251458.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -646,31 +624,11 @@
     <entry file="file://$PROJECT_DIR$/assets/2002251549.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/1.Neumorphism-UI.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="1620">
-            <caret line="60" selection-start-line="60" selection-end-line="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="351">
             <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Case/0.Dot-Pagination-Style.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="702">
-            <caret line="26" selection-start-line="26" selection-end-line="26" />
           </first_editor>
           <second_editor />
         </state>
@@ -686,6 +644,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tricks/5.flex-width-0的实例作用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="648">
+            <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tricks/4.animate-ad-slider.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1269">
+            <caret line="47" selection-start-line="47" selection-end-line="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Plugins/1.Effeckt.css.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -696,21 +674,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tricks/5.flex-width-0的实例作用.md">
+    <entry file="file://$PROJECT_DIR$/Plugins/2.NProgress.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="492">
-            <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tricks/4.animate-ad-slider.md">
+    <entry file="file://$PROJECT_DIR$/Blog/1.Neumorphism-UI.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="1620">
+            <caret line="60" selection-start-line="60" selection-end-line="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/0.Animation-Redraw-Reflow.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="744">
-            <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <first_editor relative-caret-position="162">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case/0.Dot-Pagination-Style.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/2.css-normalize-reset.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3186">
+            <caret line="118" selection-start-line="118" selection-end-line="118" />
           </first_editor>
           <second_editor />
         </state>
@@ -719,8 +727,8 @@
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <first_editor relative-caret-position="621">
+            <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
