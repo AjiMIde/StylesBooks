@@ -6,6 +6,7 @@
   * [Ele.style/window.getComputedStyle](./API/0.element.style-getComputedStyle().md)
 
 * Blog
+  * [网页收藏](./Blog/_web-favorite.md)
   * [0.动画与重绘与回流](./Blog/0.Animation-Redraw-Reflow.md)
   * [1.Neumorphism-UI设计风格](./Blog/1.Neumorphism-UI.md)
   * [2.css Normalize与Reset](./Blog/2.css-normalize-reset.md)
@@ -33,11 +34,11 @@
   * [webkit-overflow-scrolling IOS滑动回弹效果](ios/1.webkit-overflow-scrolling-IOS滑动回弹效果.md)
   
   
-  
 * Plugins
   * [0.动画框架Bounce.js](Plugins/0.Bounce.js.md) 
   * [1.Effeckt.css](Plugins/1.Effeckt.css.md)
   * [2.NProgress.js顶部进度条](Plugins/2.NProgress.js.md)
+  * [3.page-transitions页面切换动效](Plugins/3.PageTransitions.md)
   
 
 * [Less](./Less/_less.md)
